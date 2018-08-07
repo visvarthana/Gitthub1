@@ -1,1 +1,3 @@
 file 3 reading
+
+updated the file 3
